@@ -30,7 +30,7 @@
   <a href="https://github.com/vantr-o">
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=vantron)](https://github.com/vantr-o/vantron)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=vantron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/vantron)
 
 ## 🛠️ My favorite tools
 
