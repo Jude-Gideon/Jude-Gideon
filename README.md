@@ -30,6 +30,8 @@
   <a href="https://github.com/vantr-o">
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=vantron)](https://github.com/vantr-o/vantron)
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
