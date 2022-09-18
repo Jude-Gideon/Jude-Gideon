@@ -33,7 +33,17 @@
 ## 📘 My top open source projects
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=vantron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/vantron) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/Calculator)
+  
+## 🔥 Streak stats
 
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vantro's streak" src="https://streak-stats.demolab.com/?user=vantr-o&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+  
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
