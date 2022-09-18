@@ -30,24 +30,11 @@
   <a href="https://github.com/vantr-o">
 </p>
   
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/vantr-o/vantron"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=vantr-o1&repo=vantron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="vantron"></a>
-</p>
-  
-## 📕 Top projects I've contributed to
+## 📘 My top open source projects
 
-<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=vantron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="discord.py"></a>
-  <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="onefetch"></a>
-  <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextcord"></a>
-</p>
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=vantron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/vantron) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/Windows-Nuker) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/Calculator)
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -57,6 +44,7 @@
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
+
   
 ## 🛠️ My favorite tools
 
