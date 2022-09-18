@@ -22,9 +22,9 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCS44lfalvJswXwfp33fpw_Q?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCS44lfalvJswXwfp33fpw_Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UCS44lfalvJswXwfp33fpw_Q">
+  <a href="https://www.youtube.com/channel/UC7R_wdq0-SbcNUkDIUnV-7Q?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7R_wdq0-SbcNUkDIUnV-7Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/channel/UC7R_wdq0-SbcNUkDIUnV-7Q">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCS44lfalvJswXwfp33fpw_Q?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/vantr-o?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vantr-o?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
