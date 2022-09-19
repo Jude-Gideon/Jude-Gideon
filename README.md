@@ -37,6 +37,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=vantron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/vantron) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=Windows-Nuker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/Windows-Nuker) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vantr-o&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/vantr-o/Calculator)
+<p align="left">
+  <a href="https://github.com/vantr-o?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 ## 🔥 Streak stats
 
