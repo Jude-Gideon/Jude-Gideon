@@ -4,7 +4,7 @@
 </h3>
 
 ## 📜 About Me
-<p align="center">Hello! My name is Vantro and I create [Blooket Hacks](https://github.com/Blooket) that are ALWAYS working!</p>
+<p align="center">Hello! My name is Vantro and I create <a href="https://github.com/vantr-o/Blooket>Blooket Hacks</a> that are ALWAYS working!</p>
   
 ## 📘 My top open source projects
 
