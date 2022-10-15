@@ -1,7 +1,7 @@
 <h3 align="center">Jude Gideon</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jude-gideon&label=Profile%20views&color=0e75b6&style=flat" alt="jude-gideon" /> </p>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+Ms&size=25&duration=1000&pause=500&color=2150F7&width=435&lines=Middle+school+code+developer!;2%2B+Years+coding.;Always+open+to+new+languages." alt="Typing SVG" /></a>
+<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+Ms&size=25&duration=1000&pause=500&color=2150F7&width=435&lines=Middle+school+code+developer!;2%2B+Years+coding.;Always+open+to+new+languages." alt="Typing SVG" /></a></p>
 <p align="center"> <a href="https://twitter.com/judergideon" target="blank"><img src="https://img.shields.io/twitter/follow/judergideon?logo=twitter&style=for-the-badge" alt="judergideon" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
