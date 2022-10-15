@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vantr-o/vantr-o/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vantr-o/vantr-o/main/output/snake.svg" alt="Snake animation" />
 
 ###
