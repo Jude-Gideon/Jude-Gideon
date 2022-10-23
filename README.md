@@ -9,7 +9,7 @@ Hello! My name is Jude and I am currently in middle school. I've been writing co
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/89kVaeGr9m)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.com/invite/89kVaeGr9m)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/judergideon)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCJgMV4BWec_KrUkQuWOKDXg) 
 
