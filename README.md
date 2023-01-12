@@ -2,11 +2,9 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jude-gideon&icon=2&color=9)](https://visitcount.itsvg.in)
-Join my [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.com/invite/aeDraxAUpB) community.
+[![](https://visitcount.itsvg.in/api?id=jude-gideon&icon=2&color=9)](https://visitcount.itsvg.in) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.com/invite/aeDraxAUpB)
 
-# 💫 About Me:
-Hello! My name is Jude and I am currently in middle school. I've been writing code for around two years now, I currently am working on Blooket hacks which you can [check out here!](https://github.com/Jude-Gideon/Blooket)
+Middle school developer currently focused on my [Blooket Hacks].(https://github.com/Jude-Gideon/Blooket)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jude-gideon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
